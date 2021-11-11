@@ -86,4 +86,4 @@ module.exports = function (client) {
     })
 }
 
-//Coded by K R Y W I Z!
+//Coded by K R Y W I Z !
